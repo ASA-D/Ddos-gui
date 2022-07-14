@@ -2,7 +2,7 @@
 
 Rocket is a tool for Distributed Denial of Service attack(DDoS).
 
-The supported attack method is UDP flood.
+The supported attack method is UDP flood and TCP flood.
 
 
 What is Distributed Denial of Service attack?:
